@@ -1341,7 +1341,7 @@ select {
 }
 
 .cards-section .intro {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   max-width: 800px;
   margin-bottom: 60px;
   color: #616670;
