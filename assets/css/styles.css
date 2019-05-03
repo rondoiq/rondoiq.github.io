@@ -1262,8 +1262,8 @@ select {
 
 /* ======= Landing Page ======= */
 .landing-page .header {
-  background: #494d55;
-  color: rgba(255, 255, 255, 0.85);
+  /* background: #494d55; */
+  /* color: rgba(255, 255, 255, 0.85); */
   padding: 60px 0;
 }
 
