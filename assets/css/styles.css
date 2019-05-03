@@ -1330,7 +1330,7 @@ select {
 
 .cards-section {
   padding: 60px 0;
-  background: #f9f9fb;
+  /* background: #f9f9fb; */
 }
 
 .cards-section .title {
