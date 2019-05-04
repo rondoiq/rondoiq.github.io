@@ -399,7 +399,7 @@ select {
 }
 
 .breadcrumb li.active {
-  color: rgba(255, 255, 255, 0.5);
+  /* color: rgba(255, 255, 255, 0.5); */
 }
 
 .breadcrumb li a {
@@ -407,11 +407,11 @@ select {
 }
 
 .breadcrumb li a:hover {
-  color: #fff;
+  /* color: #fff; */
 }
 
 .breadcrumb > li + li:before {
-  color: rgba(0, 0, 0, 0.4);
+  /* color: rgba(0, 0, 0, 0.4); */
 }
 
 .search-form {
