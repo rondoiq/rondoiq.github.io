@@ -395,7 +395,7 @@ select {
 }
 
 .breadcrumb li {
-  color: rgba(255, 255, 255, 0.5);
+  /* color: rgba(255, 255, 255, 0.5); */
 }
 
 .breadcrumb li.active {
@@ -458,7 +458,7 @@ select {
 
 /* ====== Footer ====== */
 .footer {
-  background: #d7d6d6;
+  background:#e3e3e3;
   padding: 15px 0;
 }
 
